@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/roxyvaught/portfolio-generator/issues"
   },
-  "homepage": "https://github.com/roxyvaught/portfolio-generator#readme"
+  "homepage": "https://github.com/roxyvaught/portfolio-generator#readme",
+  "keywords": [
+    "Portfolio",
+    "github",
+    "generator",
+    "node.js"
+  ]
 }
